@@ -17,7 +17,7 @@ To run this project, make sure you have the following dependencies:
 - **OpenCV**
 - **TensorFlow** or **PyTorch** (depending on the YOLO version used)
 - **NumPy**
-- **YOLOv4 weights and configuration files**
+- **YOLOv8 weights and configuration files**
 
 Install required libraries:
 
